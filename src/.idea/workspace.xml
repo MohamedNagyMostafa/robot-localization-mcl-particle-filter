@@ -19,7 +19,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c26e5562-18dc-450b-922c-334719e14193" name="Changes" comment="" />
+    <list default="true" id="c26e5562-18dc-450b-922c-334719e14193" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/av_robot/launch/amcl.launch" beforeDir="false" afterPath="$PROJECT_DIR$/av_robot/launch/amcl.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/av_robot/urdf/robot.xacro" beforeDir="false" afterPath="$PROJECT_DIR$/av_robot/urdf/robot.xacro" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +87,7 @@
       <workItem from="1687492703243" duration="9107000" />
       <workItem from="1687503603718" duration="6943000" />
       <workItem from="1687529667343" duration="11573000" />
+      <workItem from="1687570853545" duration="1675000" />
     </task>
     <servers />
   </component>
